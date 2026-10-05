@@ -1,0 +1,3 @@
+cd E:\Projects-Sencha\FT-891CAT
+sencha -sdk D:\Sencha\ext-7.8.0 generate app FT-891-CAT .
+sencha app watch
